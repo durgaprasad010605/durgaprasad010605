@@ -1,0 +1,46 @@
+{
+  "name": "R Durga Prasad",
+  "username": "durgaprasad010605",
+ 
+
+  "role": "Java Full Stack Developer",
+  "origin": "Andhra Pradesh, India",
+  "education": "B.Tech CSE",
+  "status": "Building • Learning • Shipping",
+
+  "languages": [
+    "Java",
+    "Python",
+    "C"
+  ],
+
+  "frontend": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+
+  "backend": [
+    "Spring Boot",
+    "REST APIs",
+    "JDBC",
+    "Spring Data JPA"
+  ],
+
+  "database": [
+    "MySQL"
+  ],
+
+  "tools": [
+    "Git",
+    "GitHub",
+    "Maven",
+    "VS Code",
+    "Postman"
+  ],
+
+  "github": "durgaprasad010605",
+  "leetcode": "durgaprasad010605",
+  "linkedin": "durgaprasad165",
+  "email": "durgaprasad010605@gmail.com"
+}

@@ -1,12 +1,13 @@
 {
   "name": "github-jet-heatmap",
   "version": "1.0.0",
-  "description": "Generates an animated jet-over-contribution-grid SVG from real GitHub contribution data",
+  "description": "Generates an animated jet-over-contribution-grid SVG from real GitHub contribution data.",
   "type": "module",
   "engines": {
     "node": ">=18"
   },
   "scripts": {
-    "generate": "node generate.mjs"
+    "generate": "node generate.mjs",
+    "profile": "node generate_profile.mjs"
   }
 }
